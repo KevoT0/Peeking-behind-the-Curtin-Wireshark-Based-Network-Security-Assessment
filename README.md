@@ -1,7 +1,7 @@
 # Peeking behind the Curtin (Wireshark Based Network Security Assessment)
 
 <h2>Description</h2>
-This project involves a hands-on exploration of network security principles using Metasploitable and Kali Linux. By capturing and analyzing HTTP traffic on the vulnerable Metasploitable machine, we aim to identify potential security risks and vulnerabilities. The project demonstrates practical application of network analysis tools like Wireshark to gain insights into network behavior and security threats.  
+This project takes you on a practical journey into network security. We'll use Metasploitable (a vulnerable system) and Kali Linux (a security-focused OS) to simulate a real-world scenario. Wireshark, a powerful network analysis tool, will be our eyes, allowing us to capture and dissect the communication between the two machines. By analyzing HTTP traffic specifically, we'll uncover potential security weaknesses and vulnerabilities on the Metasploitable system. This project is a valuable demonstration of how network analysis tools can be used to gain crucial insights into network behavior and identify potential threats.  
 <br />
 
 <h2>Languages and Utilities Used</h2>
