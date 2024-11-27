@@ -10,37 +10,32 @@ This project involves a hands-on exploration of network security principles usin
 - <b>VirtualBox</b> 
 
 <h2>Environments Used </h2>
-
 - <b>Kali Linux</b>
 - <b>Metasploitable</b>
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Setting up the Windows Server VM in AZURE <br/>
-<img src="https://i.imgur.com/QuDU2ej.jpeg" height="80%" width="80%" alt="Azure AD"/>
-<br />
-
- <br/>
-<img src="https://i.imgur.com/jDvskmO.jpeg" height="80%" width="80%" alt="Azure AD"/>
+Kali and Metasploiatable enviroment <br/>
+<img src="https://i.imgur.com/S0SDy9W.jpeg" height="80%" width="80%" alt="KM"/>
 <br />
 
 <br />
-Connecting to the VM using Windows Remote desktop   <br/>
-<img src="https://i.imgur.com/Mg8D39D.jpeg" height="80%" width="80%" alt="Azure AD"/>
+Getting Metasploit IP<br/>
+<img src="https://i.imgur.com/gZwKyw6.jpeg" height="80%" width="80%" alt="KM"/>
 <br />
 
 <br />
-Verifying Windows Defender Firewall is enabled <br/>
-<img src="https://i.imgur.com/Kydjj2d.jpeg" height="80%" width="80%" alt="Azure AD"/>
+Setting up Wireshark <br/>
+<img src="https://i.imgur.com/ypbhm06.jpeg" height="80%" width="80%" alt="KM"/>
 <br />
 <br />
-Adding Active Directory Domain Service Features<br/>
-<img src="https://i.imgur.com/PfcZjSU.jpeg" height="80%" width="80%" alt="Azure AD"/>
+Running nmap scan against Metsaploitable<br/>
+<img src="https://i.imgur.com/2fYPQ3q.jpeg" height="80%" width="80%" alt="KM"/>
 <br />
 <br />
-Selecting Group Policy feature  <br/>
-<img src="https://i.imgur.com/L9dsR4a.jpeg" height="80%" width="80%" alt="Azure AD"/>
+Inspecting packets from Port 80 in Wiresshark<br/>
+<img src="https://i.imgur.com/ObErm12.jpeg" height="80%" width="80%" alt="Azure AD"/>
 <br />
 <br />
 Installation of AD DS<br/>
