@@ -27,26 +27,22 @@ Getting Metasploit IP<br/>
 Setting up Wireshark <br/>
 <img src="https://i.imgur.com/ypbhm06.jpeg" height="80%" width="80%" alt="KM"/>
 <br />
+
 <br />
 Running nmap scan against Metsaploitable<br/>
 <img src="https://i.imgur.com/2fYPQ3q.jpeg" height="80%" width="80%" alt="KM"/>
 <br />
+
 <br />
 Inspecting packets from Port 80 in Wireshark<br/>
-<img src="https://i.imgur.com/ObErm12.jpeg" height="80%" width="80%" alt="Azure AD"/>
+<img src="https://i.imgur.com/ObErm12.jpeg" height="80%" width="80%" alt="KM"/>
 <br />
 <br />
-Installation of AD DS<br/>
-<img src="https://i.imgur.com/kpJjBMV.jpeg" height="80%" width="80%" alt="Honey Pot Hosted in the Cloud Steps"/>
+
+Checking out sniffed logged infromation from the website.<br/>
+<img src="https://i.imgur.com/f4DD41S.jpeg" height="80%" width="80%" alt="KM"/>
 <br />
-<br />
-Configuration of Domain Controller <br/>
-<img src="https://i.imgur.com/qPCXCHz.jpeg" height="80%" width="80%" alt="Azure AD"/>
-<br />
-<br /> 
-Installation of configured Domain Controller <br/>
-<img src="https://i.imgur.com/7bLie67.jpeg" height="80%" width="80%" alt="Azure AD"/>
-<br />
+
 <br />
 </p>
 
