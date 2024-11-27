@@ -37,8 +37,8 @@ Running nmap scan against Metsaploitable<br/>
 Inspecting packets from Port 80 in Wireshark<br/>
 <img src="https://i.imgur.com/ObErm12.jpeg" height="80%" width="80%" alt="KM"/>
 <br />
-<br />
 
+<br />
 Checking out sniffed logged infromation from the website.<br/>
 <img src="https://i.imgur.com/f4DD41S.jpeg" height="80%" width="80%" alt="KM"/>
 <br />
